@@ -5,10 +5,10 @@
 2. List the CCID(s) of student(s) working on the project.
 3. List all sources consulted while completing the assignment.
 
-|Student name| CCID |
+|Student name| ID |
 |------------|------|
-|student 1   |   xiangtia   |
-|student 2   |   qye   |
+|student 1   |  q |
+|student 2   |   e   |
 
 
 ## kNN analysis
